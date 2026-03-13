@@ -1,8 +1,8 @@
 ---
 name: "tavily"
-displayName: "Tavily Web Search"
+displayName: "Web Search with Tavily"
 description: "Search the web, extract content from URLs, crawl websites, and conduct AI-powered research using Tavily's LLM-optimized APIs"
-keywords: ["search", "web-search", "tavily", "web", "lookup", "find", "internet", "extract", "crawl", "scrape", "research", "rag"]
+keywords: ["search", "web-search", "tavily", "web", "lookup", "find", "internet", "extract", "crawl", "scrape", "research", "rag", "realtime", "latest"]
 author: "Tavily"
 ---
 
